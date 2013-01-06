@@ -67,7 +67,7 @@
 (require 'init-sessions)
 (require 'init-fonts)
 (require 'init-mmm)
-;(require 'init-growl)
+;;(require 'init-growl)
 
 (require 'init-editing-utils)
 
@@ -120,7 +120,7 @@
 (require 'init-csharp-mode)
 (require 'init-linum-mode)
 ;(require 'init-delicious) ;make startup slow, I don't use delicious in w3m
-(require 'init-emacs-w3m)
+;;(require 'init-emacs-w3m)
 (require 'init-eim)
 (require 'init-thing-edit)
 (require 'init-which-func)
@@ -141,10 +141,10 @@
 (require 'init-bbdb)
 (require 'init-gnus)
 (require 'init-smarter-compile)
-(require 'init-twittering-mode)
-(require 'init-weibo)
-(require 'init-emms)
-(require 'init-lua-mode)
+;;(require 'init-twittering-mode)
+;;(require 'init-weibo)
+;;(require 'init-emms)
+;;(require 'init-lua-mode)
 (require 'init-doxygen)
 
 ;;----------------------------------------------------------------------------
