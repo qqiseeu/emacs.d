@@ -83,3 +83,11 @@ not compatible with auto-complete.
 
 ## My personal Emacs configuration (custom.el)
 It's publicized at http://blog.binchen.org/?p=430 .
+
+------------------------------------------------------------------------------
+Xy Guo's README
+
+* To use the xscheme library, you should first install the mit-scheme
+* I don't use the auctex in elpa.
+* To use the auto-complete-clang, you should first install clang.
+
